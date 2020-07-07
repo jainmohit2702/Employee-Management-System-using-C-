@@ -1,5 +1,6 @@
-# Employee-Management-System-using-C-
+# Employee-Management-System-using-CPP
 Created an Employee Management System using C++ language
+
 Keeping record of : 
   1. Employee ID
   2. Employee Name 
@@ -8,6 +9,7 @@ Keeping record of :
   5. Health Insuarance 
   6. Employee email ID
   7. Net Salary
+
 Functions of the Employee Management System : 
   1. Add new employee data
   2. Search existing employee data
