@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1565789992 source:c:\udemy_cpp\employee_management_system\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<iomanip>
+	<cstdlib>
+
+1565789992 source:d:\mohit - 28-6-2020\programming\c++ programming\udemy_cpp\employee_management_system\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<iomanip>
+	<cstdlib>
+
