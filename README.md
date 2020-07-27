@@ -6,7 +6,7 @@ Keeping record of :
   2. Employee Name 
   3. Basic Salary 
   4. Provident Fund
-  5. Health Insuarance 
+  5. Health Insurance 
   6. Employee email ID
   7. Net Salary
 
